@@ -41,6 +41,9 @@
     `pip install -r requirements.txt`
 
 
+- Создаем .env файл, примеры находятся в env.example
+
+
 - Запускаем проект:
 
     `uvicorn app.main:app`
